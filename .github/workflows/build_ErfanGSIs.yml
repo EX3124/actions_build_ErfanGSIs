@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ip577357432.out.azhimalayanvh.com/Firmware/Flyme/16s_Pro/8.20.6.16/cn_beta/20200612214601/9e13869a/update.zip
+  ROM_URL: https://ip577357432.out.azhimalayanvh.com/Firmware/Flyme/16s_Pro/8.20.6.16/cn_beta/20200612214601/9e13869a/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=b16aaa85b31015a68bf24c9478b73d7f96057c373c317b40&ali_redirect_ex_tmining_ts=1609419727&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
   ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
